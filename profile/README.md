@@ -13,3 +13,5 @@ ICP is na integration management system for receiving webhooks, querying HTTP AP
 ### Kare - Asset Registry 
 
 Kare is an internal asset registry that replaces structured Excel files with a centralized SQL database. It makes asset data easier to search, maintain, report on and intergrate with other systems.
+
+[Learn more about Kare](./Kare.md)
